@@ -1,0 +1,516 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cenk//NASCAR Cup 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NASCAR Cup Series 2026
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+UID:6ae3f543-169c-4eb5-8f4e-056f5cbaa304@cenk-nascar-2026
+DTSTAMP:20251228T210328Z
+DTSTART:20260202T010000Z
+DTEND:20260202T030000Z
+SUMMARY:NASCAR Cup (Non-points): Cook Out Clash
+LOCATION:Winston-Salem\, North Carolina\, USA
+DESCRIPTION:Track: Bowman Gray Stadium (short oval)\nTrack length: 0.25 mi\
+ nRace laps: TBD  |  Stage breakdown: TBA\nStart time: published (converted
+  from ET to UTC).\n\nTrack notes:\nClassic stadium short track known as “T
+ he Madhouse” — tight quarters\, constant contact\, and bump-and-run drama.
+ 
+END:VEVENT
+BEGIN:VEVENT
+UID:9b64c585-0226-465f-8e1a-da10e44a64a2@cenk-nascar-2026
+DTSTAMP:20251228T210328Z
+DTSTART:20260213T000000Z
+DTEND:20260213T020000Z
+SUMMARY:NASCAR Cup (Non-points): Daytona 500 Duels
+LOCATION:Daytona Beach\, Florida\, USA
+DESCRIPTION:Track: Daytona International Speedway (superspeedway)\nTrack le
+ ngth: 2.5 mi\nRace laps: TBD  |  Stage breakdown: N/A\nStart time: publish
+ ed (converted from ET to UTC).\n\nTrack notes:\nHigh-banked superspeedway\
+ ; drafting and pack racing rule. Expect big momentum swings and the ever-p
+ resent “Big One”.
+END:VEVENT
+BEGIN:VEVENT
+UID:af04ef81-cf71-4e4b-883c-da51ae5d2b43@cenk-nascar-2026
+DTSTAMP:20251228T210328Z
+DTSTART:20260215T193000Z
+DTEND:20260215T233000Z
+SUMMARY:NASCAR Cup R1: DAYTONA 500
+LOCATION:Daytona Beach\, Florida\, USA
+DESCRIPTION:Track: Daytona International Speedway (superspeedway)\nTrack le
+ ngth: 2.5 mi\nRace laps: 200  |  Stage breakdown: 65/130/200\nStart time: 
+ published (converted from ET to UTC).\n\nTrack notes:\nHigh-banked supersp
+ eedway\; drafting and pack racing rule. Expect big momentum swings and the
+  ever-present “Big One”.
+END:VEVENT
+BEGIN:VEVENT
+UID:c78aaf61-c29c-480c-a8d1-7ef90ffc9d19@cenk-nascar-2026
+DTSTAMP:20251228T210328Z
+DTSTART:20260222T200000Z
+DTEND:20260223T000000Z
+SUMMARY:NASCAR Cup R2: Ambetter Health 400
+LOCATION:Hampton\, Georgia\, USA
+DESCRIPTION:Track: EchoPark Speedway (Atlanta) (superspeedway-style oval)\n
+ Track length: 1.54 mi\nRace laps: 260  |  Stage breakdown: 60/160/260\nSta
+ rt time: published (converted from ET to UTC).\n\nTrack notes:\nReconfigur
+ ed for pack racing\; runs like a mini superspeedway where the draft keeps 
+ the field glued together.
+END:VEVENT
+BEGIN:VEVENT
+UID:530bd187-c3d1-44db-9ef4-01e523aa5209@cenk-nascar-2026
+DTSTAMP:20251228T210328Z
+DTSTART:20260301T203000Z
+DTEND:20260302T003000Z
+SUMMARY:NASCAR Cup R3: Echopark Texas Grand Prix
+LOCATION:Austin\, Texas\, USA
+DESCRIPTION:Track: Circuit of the Americas (road course)\nTrack length: 2.4
+  mi\nRace laps: 95  |  Stage breakdown: 20/45/95\nStart time: published (c
+ onverted from ET to UTC).\n\nTrack notes:\nTechnical road course with big 
+ elevation change into Turn 1\; braking and track limits matter as much as 
+ raw speed.
+END:VEVENT
+BEGIN:VEVENT
+UID:e280a406-1fd8-4e8c-bb51-d3ca68960a2b@cenk-nascar-2026
+DTSTAMP:20251228T210328Z
+DTSTART:20260308T193000Z
+DTEND:20260308T233000Z
+SUMMARY:NASCAR Cup R4: Straight Talk Wireless 500
+LOCATION:Avondale\, Arizona\, USA
+DESCRIPTION:Track: Phoenix Raceway (flat oval)\nTrack length: 1.0 mi\nRace 
+ laps: 312  |  Stage breakdown: 60/185/312\nStart time: published (converte
+ d from ET to UTC).\n\nTrack notes:\nOne-mile “dogleg” oval\; restarts are 
+ wild and track position can be everything late in a run.
+END:VEVENT
+BEGIN:VEVENT
+UID:38c48980-723c-40ac-88a1-bf51e5347d77@cenk-nascar-2026
+DTSTAMP:20251228T210328Z
+DTSTART:20260315T200000Z
+DTEND:20260316T000000Z
+SUMMARY:NASCAR Cup R5: Pennzoil 400
+LOCATION:Las Vegas\, Nevada\, USA
+DESCRIPTION:Track: Las Vegas Motor Speedway (intermediate oval)\nTrack leng
+ th: 1.5 mi\nRace laps: 267  |  Stage breakdown: 80/165/267\nStart time: pu
+ blished (converted from ET to UTC).\n\nTrack notes:\nHigh-speed 1.5-miler 
+ where tire management and clean air are huge — long green runs can flip st
+ rategy.
+END:VEVENT
+BEGIN:VEVENT
+UID:2964a5a2-8e40-4d0c-945a-828171a125be@cenk-nascar-2026
+DTSTAMP:20251228T210328Z
+DTSTART:20260322T190000Z
+DTEND:20260322T230000Z
+SUMMARY:NASCAR Cup R6: Goodyear 400
+LOCATION:Darlington\, South Carolina\, USA
+DESCRIPTION:Track: Darlington Raceway (egg-shaped oval)\nTrack length: 1.36
+ 6 mi\nRace laps: 293  |  Stage breakdown: 90/185/293\nStart time: publishe
+ d (converted from ET to UTC).\n\nTrack notes:\n‘Too Tough To Tame’ — narro
+ w groove\, asymmetric corners. The wall is close enough to autograph your 
+ car (‘Darlington Stripe’).
+END:VEVENT
+BEGIN:VEVENT
+UID:ce119553-a4f3-4e90-b9e3-5a7bb109a724@cenk-nascar-2026
+DTSTAMP:20251228T210328Z
+DTSTART:20260329T193000Z
+DTEND:20260329T233000Z
+SUMMARY:NASCAR Cup R7: Cook Out 400
+LOCATION:Ridgeway\, Virginia\, USA
+DESCRIPTION:Track: Martinsville Speedway (short oval)\nTrack length: 0.526 
+ mi\nRace laps: 400  |  Stage breakdown: 80/180/400\nStart time: published 
+ (converted from ET to UTC).\n\nTrack notes:\nPaperclip short track: heavy 
+ braking\, hard launches\, and classic bump-and-run passes. Patience (and b
+ rakes) wins.
+END:VEVENT
+BEGIN:VEVENT
+UID:722db6b5-8995-46f2-a1b6-f148d6a80d08@cenk-nascar-2026
+DTSTAMP:20251228T210328Z
+DTSTART:20260412T190000Z
+DTEND:20260412T230000Z
+SUMMARY:NASCAR Cup R8: Food City 500
+LOCATION:Bristol\, Tennessee\, USA
+DESCRIPTION:Track: Bristol Motor Speedway (short oval)\nTrack length: 0.533
+  mi\nRace laps: 500  |  Stage breakdown: 125/250/500\nStart time: publishe
+ d (converted from ET to UTC).\n\nTrack notes:\nSteep-banked bullring with 
+ insane traffic. Lapped cars appear fast — chaos arrives in waves.
+END:VEVENT
+BEGIN:VEVENT
+UID:7923b257-2dd2-4cb2-990b-1f3879eaf142@cenk-nascar-2026
+DTSTAMP:20251228T210328Z
+DTSTART:20260419T180000Z
+DTEND:20260419T220000Z
+SUMMARY:NASCAR Cup R9: AdventHealth 400
+LOCATION:Kansas City\, Kansas\, USA
+DESCRIPTION:Track: Kansas Speedway (intermediate oval)\nTrack length: 1.5 m
+ i\nRace laps: 267  |  Stage breakdown: 80/165/267\nStart time: published (
+ converted from ET to UTC).\n\nTrack notes:\nMulti-groove intermediate that
+  rewards running the wall\; aero + tire falloff creates comers and goers.
+END:VEVENT
+BEGIN:VEVENT
+UID:b12b7e9b-5a03-4e58-8907-c147c9309ac9@cenk-nascar-2026
+DTSTAMP:20251228T210328Z
+DTSTART:20260426T190000Z
+DTEND:20260426T230000Z
+SUMMARY:NASCAR Cup R10: Jack Link’s 500
+LOCATION:Lincoln\, Alabama\, USA
+DESCRIPTION:Track: Talladega Superspeedway (superspeedway)\nTrack length: 2
+ .66 mi\nRace laps: 188  |  Stage breakdown: 60/120/188\nStart time: publis
+ hed (converted from ET to UTC).\n\nTrack notes:\nThe fastest and biggest p
+ ack-racing track. Drafting trains\, big runs\, and huge closing rates — ho
+ ld on.
+END:VEVENT
+BEGIN:VEVENT
+UID:bc2ab9cd-dfce-4e17-98a2-7a4efead20dd@cenk-nascar-2026
+DTSTAMP:20251228T210328Z
+DTSTART:20260503T193000Z
+DTEND:20260503T233000Z
+SUMMARY:NASCAR Cup R11: Würth 400
+LOCATION:Fort Worth\, Texas\, USA
+DESCRIPTION:Track: Texas Motor Speedway (intermediate oval)\nTrack length: 
+ 1.5 mi\nRace laps: 267  |  Stage breakdown: 80/165/267\nStart time: publis
+ hed (converted from ET to UTC).\n\nTrack notes:\nHigh-speed 1.5-miler\; lo
+ ng corners punish the right-front tire and reward drivers who can rotate t
+ he car in traffic.
+END:VEVENT
+BEGIN:VEVENT
+UID:fa30d1a6-7513-496f-a00b-c4da69ec5bd8@cenk-nascar-2026
+DTSTAMP:20251228T210328Z
+DTSTART:20260510T190000Z
+DTEND:20260510T230000Z
+SUMMARY:NASCAR Cup R12: Go Bowling at the Glen
+LOCATION:Watkins Glen\, New York\, USA
+DESCRIPTION:Track: Watkins Glen International (road course)\nTrack length: 
+ 2.45 mi\nRace laps: 90  |  Stage breakdown: 20/40/90\nStart time: publishe
+ d (converted from ET to UTC).\n\nTrack notes:\nOld-school road course with
+  fast esses and heavy braking zones. Strategy often hinges on pit timing v
+ s. cautions.
+END:VEVENT
+BEGIN:VEVENT
+UID:0720bd08-28a4-4aa4-af48-32ea11b000e4@cenk-nascar-2026
+DTSTAMP:20251228T210328Z
+DTSTART:20260517T120000Z
+DTEND:20260517T140000Z
+SUMMARY:NASCAR Cup (Non-points): All-Star Open
+LOCATION:Dover\, Delaware\, USA
+DESCRIPTION:Track: Dover Motor Speedway (high-banked concrete oval)\nTrack 
+ length: 1.0 mi\nRace laps: TBD  |  Stage breakdown: TBA\nStart time: TBD →
+  placeholder set to 12:00Z per your rule.\n\nTrack notes:\n‘Monster Mile’ 
+ concrete oval\; punishes mistakes with high speeds and relentless load on 
+ tires.
+END:VEVENT
+BEGIN:VEVENT
+UID:3755661c-983e-495b-93a1-ac78cd6fcf92@cenk-nascar-2026
+DTSTAMP:20251228T210328Z
+DTSTART:20260517T190000Z
+DTEND:20260517T220000Z
+SUMMARY:NASCAR Cup (Non-points): All-Star Race
+LOCATION:Dover\, Delaware\, USA
+DESCRIPTION:Track: Dover Motor Speedway (high-banked concrete oval)\nTrack 
+ length: 1.0 mi\nRace laps: TBD  |  Stage breakdown: TBA\nStart time: publi
+ shed (converted from ET to UTC).\n\nTrack notes:\n‘Monster Mile’ concrete 
+ oval\; punishes mistakes with high speeds and relentless load on tires.
+END:VEVENT
+BEGIN:VEVENT
+UID:0d78b4ba-ff48-4626-b9c0-b7a7e27f7d11@cenk-nascar-2026
+DTSTAMP:20251228T210328Z
+DTSTART:20260524T220000Z
+DTEND:20260525T020000Z
+SUMMARY:NASCAR Cup R13: Coca-Cola 600
+LOCATION:Concord\, North Carolina\, USA
+DESCRIPTION:Track: Charlotte Motor Speedway (intermediate oval)\nTrack leng
+ th: 1.5 mi\nRace laps: 400  |  Stage breakdown: 100/200/300/400\nStart tim
+ e: published (converted from ET to UTC).\n\nTrack notes:\nIconic 1.5-miler
+  and home-base feel for many teams. Coca‑Cola 600 is the longest race — st
+ amina and strategy matter.
+END:VEVENT
+BEGIN:VEVENT
+UID:ec7d27a8-a603-4dac-a5ff-2de3c9690a49@cenk-nascar-2026
+DTSTAMP:20251228T210328Z
+DTSTART:20260531T230000Z
+DTEND:20260601T030000Z
+SUMMARY:NASCAR Cup R14: Cracker Barrel 400
+LOCATION:Lebanon\, Tennessee\, USA
+DESCRIPTION:Track: Nashville Superspeedway (concrete intermediate)\nTrack l
+ ength: 1.333 mi\nRace laps: 300  |  Stage breakdown: 90/185/300\nStart tim
+ e: published (converted from ET to UTC).\n\nTrack notes:\nConcrete surface
+  with tricky grip change over a run\; late-race restarts can turn into a d
+ rag race to Turn 1.
+END:VEVENT
+BEGIN:VEVENT
+UID:86a456ad-56d0-4a3f-9f04-e47ed9796452@cenk-nascar-2026
+DTSTAMP:20251228T210328Z
+DTSTART:20260607T190000Z
+DTEND:20260607T230000Z
+SUMMARY:NASCAR Cup R15: FireKeepers Casino 400
+LOCATION:Brooklyn\, Michigan\, USA
+DESCRIPTION:Track: Michigan International Speedway (high-speed oval)\nTrack
+  length: 2.0 mi\nRace laps: 200  |  Stage breakdown: 45/120/200\nStart tim
+ e: published (converted from ET to UTC).\n\nTrack notes:\nFast\, wide 2-mi
+ ler — long green runs\, fuel windows\, and momentum passes down the straig
+ hts.
+END:VEVENT
+BEGIN:VEVENT
+UID:9845f99b-7983-4751-96cd-c5418d7c5b1b@cenk-nascar-2026
+DTSTAMP:20251228T210328Z
+DTSTART:20260614T190000Z
+DTEND:20260614T230000Z
+SUMMARY:NASCAR Cup R16: Great American Getaway 400
+LOCATION:Long Pond\, Pennsylvania\, USA
+DESCRIPTION:Track: Pocono Raceway (tri-oval)\nTrack length: 2.5 mi\nRace la
+ ps: 160  |  Stage breakdown: 30/95/160\nStart time: published (converted f
+ rom ET to UTC).\n\nTrack notes:\n‘Tricky Triangle’ — three distinct corner
+ s (each feels like a different track). Shifting\, braking\, and strategy a
+ re key.
+END:VEVENT
+BEGIN:VEVENT
+UID:050b8f61-ed0b-4d8c-8c18-1778a6638cab@cenk-nascar-2026
+DTSTAMP:20251228T210328Z
+DTSTART:20260621T200000Z
+DTEND:20260622T000000Z
+SUMMARY:NASCAR Cup R17: Anduril 250 – Race the Base
+LOCATION:San Diego\, California\, USA
+DESCRIPTION:Track: Naval Base Coronado (San Diego) (street course)\nTrack l
+ ength: TBD\nRace laps: TBD  |  Stage breakdown: TBA\nStart time: published
+  (converted from ET to UTC).\n\nTrack notes:\nStreet-course-style event on
+  a naval base setting — expect tight walls\, strategy gambles\, and big re
+ starts.
+END:VEVENT
+BEGIN:VEVENT
+UID:ec17b216-965b-4583-b612-f798a5bbc673@cenk-nascar-2026
+DTSTAMP:20251228T210328Z
+DTSTART:20260628T193000Z
+DTEND:20260628T233000Z
+SUMMARY:NASCAR Cup R18: Toyota / Save Mart 350
+LOCATION:Sonoma\, California\, USA
+DESCRIPTION:Track: Sonoma Raceway (road course)\nTrack length: 1.99 mi\nRac
+ e laps: 110  |  Stage breakdown: 25/55/110\nStart time: published (convert
+ ed from ET to UTC).\n\nTrack notes:\nTechnical road course with elevation 
+ and off-camber corners. Saving brakes and nailing restarts after cautions 
+ is huge.
+END:VEVENT
+BEGIN:VEVENT
+UID:742371de-4d85-485a-aa13-dfab639a496d@cenk-nascar-2026
+DTSTAMP:20251228T210328Z
+DTSTART:20260705T220000Z
+DTEND:20260706T020000Z
+SUMMARY:NASCAR Cup R19: TBA 400
+LOCATION:Joliet\, Illinois\, USA
+DESCRIPTION:Track: Chicagoland Speedway (intermediate oval)\nTrack length: 
+ 1.5 mi\nRace laps: 267  |  Stage breakdown: 80/165/267\nStart time: publis
+ hed (converted from ET to UTC).\n\nTrack notes:\n1.5-miler known for multi
+ ple grooves and strong late-race runs when tires wear.
+END:VEVENT
+BEGIN:VEVENT
+UID:d1277c07-a2a8-4b6d-859f-1caa0affdf14@cenk-nascar-2026
+DTSTAMP:20251228T210328Z
+DTSTART:20260712T230000Z
+DTEND:20260713T030000Z
+SUMMARY:NASCAR Cup R20: Quaker State 400
+LOCATION:Hampton\, Georgia\, USA
+DESCRIPTION:Track: EchoPark Speedway (Atlanta) (superspeedway-style oval)\n
+ Track length: 1.54 mi\nRace laps: 260  |  Stage breakdown: 60/160/260\nSta
+ rt time: published (converted from ET to UTC).\n\nTrack notes:\nReconfigur
+ ed for pack racing\; runs like a mini superspeedway where the draft keeps 
+ the field glued together.
+END:VEVENT
+BEGIN:VEVENT
+UID:bfb9440e-9c99-4029-9616-f27e7a6fb6b8@cenk-nascar-2026
+DTSTAMP:20251228T210328Z
+DTSTART:20260719T230000Z
+DTEND:20260720T030000Z
+SUMMARY:NASCAR Cup R21: Window World 450
+LOCATION:North Wilkesboro\, North Carolina\, USA
+DESCRIPTION:Track: North Wilkesboro Speedway (short oval)\nTrack length: 0.
+ 625 mi\nRace laps: TBD  |  Stage breakdown: TBA\nStart time: published (co
+ nverted from ET to UTC).\n\nTrack notes:\nOld-school short track with hist
+ ory for days — narrow racing line\, slippery surface\, and plenty of elbow
+ s out.
+END:VEVENT
+BEGIN:VEVENT
+UID:b5fab556-a973-4f17-9902-920f0f0eb8de@cenk-nascar-2026
+DTSTAMP:20251228T210328Z
+DTSTART:20260726T180000Z
+DTEND:20260726T220000Z
+SUMMARY:NASCAR Cup R22: Brickyard 400
+LOCATION:Speedway\, Indiana\, USA
+DESCRIPTION:Track: Indianapolis Motor Speedway (oval)\nTrack length: 2.5 mi
+ \nRace laps: 160  |  Stage breakdown: 50/100/160\nStart time: published (c
+ onverted from ET to UTC).\n\nTrack notes:\nThe Brickyard. Flat\, historic\
+ , and tough to pass — track position and pit execution are gold.
+END:VEVENT
+BEGIN:VEVENT
+UID:327abfa2-408b-4175-a940-f5a396dba083@cenk-nascar-2026
+DTSTAMP:20251228T210328Z
+DTSTART:20260809T193000Z
+DTEND:20260809T233000Z
+SUMMARY:NASCAR Cup R23: Iowa Corn 350
+LOCATION:Newton\, Iowa\, USA
+DESCRIPTION:Track: Iowa Speedway (short/intermediate oval)\nTrack length: 0
+ .875 mi\nRace laps: 350  |  Stage breakdown: 70/210/350\nStart time: publi
+ shed (converted from ET to UTC).\n\nTrack notes:\nFast short track with pr
+ ogressive banking\; the upper groove can come alive as rubber builds.
+END:VEVENT
+BEGIN:VEVENT
+UID:ed0f3991-9364-4daa-9c71-4e6aba4b85ac@cenk-nascar-2026
+DTSTAMP:20251228T210328Z
+DTSTART:20260815T230000Z
+DTEND:20260816T030000Z
+SUMMARY:NASCAR Cup R24: Cook Out 400
+LOCATION:Richmond\, Virginia\, USA
+DESCRIPTION:Track: Richmond Raceway (short oval)\nTrack length: 0.75 mi\nRa
+ ce laps: 400  |  Stage breakdown: 70/230/400\nStart time: published (conve
+ rted from ET to UTC).\n\nTrack notes:\nA ‘short track’ that races like a m
+ ini intermediate: tire falloff\, long-run pace\, and pit timing define the
+  day.
+END:VEVENT
+BEGIN:VEVENT
+UID:293723d8-39d7-4da9-9f43-204686ed33d9@cenk-nascar-2026
+DTSTAMP:20251228T210328Z
+DTSTART:20260823T190000Z
+DTEND:20260823T230000Z
+SUMMARY:NASCAR Cup R25: USA Today 301
+LOCATION:Loudon\, New Hampshire\, USA
+DESCRIPTION:Track: New Hampshire Motor Speedway (flat oval)\nTrack length: 
+ 1.058 mi\nRace laps: 301  |  Stage breakdown: 70/185/301\nStart time: publ
+ ished (converted from ET to UTC).\n\nTrack notes:\nFlat 1.058-miler — mana
+ ging throttle and saving tires on exit is everything\; strategy plays big.
+END:VEVENT
+BEGIN:VEVENT
+UID:c587fb6a-dd43-4663-80c4-801d4513509c@cenk-nascar-2026
+DTSTAMP:20251228T210328Z
+DTSTART:20260829T233000Z
+DTEND:20260830T033000Z
+SUMMARY:NASCAR Cup R26: Coke Zero Sugar 400
+LOCATION:Daytona Beach\, Florida\, USA
+DESCRIPTION:Track: Daytona International Speedway (superspeedway)\nTrack le
+ ngth: 2.5 mi\nRace laps: 160  |  Stage breakdown: 35/95/160\nStart time: p
+ ublished (converted from ET to UTC).\n\nTrack notes:\nHigh-banked superspe
+ edway\; drafting and pack racing rule. Expect big momentum swings and the 
+ ever-present “Big One”.
+END:VEVENT
+BEGIN:VEVENT
+UID:c94a2839-d7f4-424d-adeb-d920db176649@cenk-nascar-2026
+DTSTAMP:20251228T210328Z
+DTSTART:20260906T210000Z
+DTEND:20260907T010000Z
+SUMMARY:NASCAR Cup R27: Cook Out Southern 500
+LOCATION:Darlington\, South Carolina\, USA
+DESCRIPTION:Track: Darlington Raceway (egg-shaped oval)\nTrack length: 1.36
+ 6 mi\nRace laps: 367  |  Stage breakdown: 115/230/367\nStart time: publish
+ ed (converted from ET to UTC).\n\nTrack notes:\n‘Too Tough To Tame’ — narr
+ ow groove\, asymmetric corners. The wall is close enough to autograph your
+  car (‘Darlington Stripe’).
+END:VEVENT
+BEGIN:VEVENT
+UID:db65ad2f-83a4-4f8e-98ba-1d3f8dc621e8@cenk-nascar-2026
+DTSTAMP:20251228T210328Z
+DTSTART:20260913T190000Z
+DTEND:20260913T230000Z
+SUMMARY:NASCAR Cup R28: Enjoy Illinois 300
+LOCATION:Madison\, Illinois\, USA
+DESCRIPTION:Track: World Wide Technology Raceway (oval)\nTrack length: 1.25
+  mi\nRace laps: 240  |  Stage breakdown: 45/140/240\nStart time: published
+  (converted from ET to UTC).\n\nTrack notes:\nUnique 1.25-miler with sharp
+  corners and a long backstretch. Restarts are chaotic\; clean air helps.
+END:VEVENT
+BEGIN:VEVENT
+UID:8b5bf863-7e1d-4a1a-b9fa-e86cb4b460d3@cenk-nascar-2026
+DTSTAMP:20251228T210328Z
+DTSTART:20260919T233000Z
+DTEND:20260920T033000Z
+SUMMARY:NASCAR Cup R29: Bass Pro Shops Night Race
+LOCATION:Bristol\, Tennessee\, USA
+DESCRIPTION:Track: Bristol Motor Speedway (short oval)\nTrack length: 0.533
+  mi\nRace laps: 500  |  Stage breakdown: 125/250/500\nStart time: publishe
+ d (converted from ET to UTC).\n\nTrack notes:\nSteep-banked bullring with 
+ insane traffic. Lapped cars appear fast — chaos arrives in waves.
+END:VEVENT
+BEGIN:VEVENT
+UID:250f5dbd-db14-44f0-a7a5-d249833c21b7@cenk-nascar-2026
+DTSTAMP:20251228T210328Z
+DTSTART:20260927T190000Z
+DTEND:20260927T230000Z
+SUMMARY:NASCAR Cup R30: Hollywood Casino 400
+LOCATION:Kansas City\, Kansas\, USA
+DESCRIPTION:Track: Kansas Speedway (intermediate oval)\nTrack length: 1.5 m
+ i\nRace laps: 267  |  Stage breakdown: 80/165/267\nStart time: published (
+ converted from ET to UTC).\n\nTrack notes:\nMulti-groove intermediate that
+  rewards running the wall\; aero + tire falloff creates comers and goers.
+END:VEVENT
+BEGIN:VEVENT
+UID:39c0728a-867e-4145-aacd-2be5f0bdefdd@cenk-nascar-2026
+DTSTAMP:20251228T210328Z
+DTSTART:20261004T213000Z
+DTEND:20261005T013000Z
+SUMMARY:NASCAR Cup R31: South Point 400
+LOCATION:Las Vegas\, Nevada\, USA
+DESCRIPTION:Track: Las Vegas Motor Speedway (intermediate oval)\nTrack leng
+ th: 1.5 mi\nRace laps: 267  |  Stage breakdown: 80/165/267\nStart time: pu
+ blished (converted from ET to UTC).\n\nTrack notes:\nHigh-speed 1.5-miler 
+ where tire management and clean air are huge — long green runs can flip st
+ rategy.
+END:VEVENT
+BEGIN:VEVENT
+UID:e6373581-d352-4c2c-94e8-c75dccff2568@cenk-nascar-2026
+DTSTAMP:20251228T210328Z
+DTSTART:20261011T190000Z
+DTEND:20261011T230000Z
+SUMMARY:NASCAR Cup R32: Bank of America ROVAL 400
+LOCATION:Concord\, North Carolina\, USA
+DESCRIPTION:Track: Charlotte Motor Speedway ROVAL (roval (road/oval hybrid)
+ )\nTrack length: 2.28 mi\nRace laps: 109  |  Stage breakdown: 25/50/109\nS
+ tart time: published (converted from ET to UTC).\n\nTrack notes:\nA road c
+ ourse using the Charlotte oval and infield. Chicanes + high curbs = mistak
+ es\, cut tires\, and late drama.
+END:VEVENT
+BEGIN:VEVENT
+UID:84c210eb-10cc-43c5-b556-95db11400e84@cenk-nascar-2026
+DTSTAMP:20251228T210328Z
+DTSTART:20261018T190000Z
+DTEND:20261018T230000Z
+SUMMARY:NASCAR Cup R33: TBA (Phoenix Playoff Race)
+LOCATION:Avondale\, Arizona\, USA
+DESCRIPTION:Track: Phoenix Raceway (flat oval)\nTrack length: 1.0 mi\nRace 
+ laps: 312  |  Stage breakdown: 60/185/312\nStart time: published (converte
+ d from ET to UTC).\n\nTrack notes:\nOne-mile “dogleg” oval\; restarts are 
+ wild and track position can be everything late in a run.
+END:VEVENT
+BEGIN:VEVENT
+UID:09ca07fd-665f-4f58-ab8c-dcbc86de037e@cenk-nascar-2026
+DTSTAMP:20251228T210328Z
+DTSTART:20261025T180000Z
+DTEND:20261025T220000Z
+SUMMARY:NASCAR Cup R34: YellaWood 500
+LOCATION:Lincoln\, Alabama\, USA
+DESCRIPTION:Track: Talladega Superspeedway (superspeedway)\nTrack length: 2
+ .66 mi\nRace laps: 188  |  Stage breakdown: 60/120/188\nStart time: publis
+ hed (converted from ET to UTC).\n\nTrack notes:\nThe fastest and biggest p
+ ack-racing track. Drafting trains\, big runs\, and huge closing rates — ho
+ ld on.
+END:VEVENT
+BEGIN:VEVENT
+UID:2f996429-04e4-4533-bb71-17f556cd0419@cenk-nascar-2026
+DTSTAMP:20251228T210328Z
+DTSTART:20261101T190000Z
+DTEND:20261101T230000Z
+SUMMARY:NASCAR Cup R35: Xfinity 500
+LOCATION:Ridgeway\, Virginia\, USA
+DESCRIPTION:Track: Martinsville Speedway (short oval)\nTrack length: 0.526 
+ mi\nRace laps: 500  |  Stage breakdown: 130/260/500\nStart time: published
+  (converted from ET to UTC).\n\nTrack notes:\nPaperclip short track: heavy
+  braking\, hard launches\, and classic bump-and-run passes. Patience (and 
+ brakes) wins.
+END:VEVENT
+BEGIN:VEVENT
+UID:cf2c0f9b-c519-4538-8bd4-ff2406a9a1aa@cenk-nascar-2026
+DTSTAMP:20251228T210328Z
+DTSTART:20261108T200000Z
+DTEND:20261109T000000Z
+SUMMARY:NASCAR Cup R36: NASCAR Cup Series Championship
+LOCATION:Homestead\, Florida\, USA
+DESCRIPTION:Track: Homestead-Miami Speedway (intermediate oval)\nTrack leng
+ th: 1.5 mi\nRace laps: 267  |  Stage breakdown: 80/165/267\nStart time: pu
+ blished (converted from ET to UTC).\n\nTrack notes:\nProgressive banking l
+ ets drivers run the wall. Tire falloff makes long-run speed king — perfect
+  for a finale.
+END:VEVENT
+END:VCALENDAR
