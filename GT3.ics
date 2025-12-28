@@ -1,0 +1,136 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ChatGPT//Endurance Racing 2026 Unified Subscription (Alerts)//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:11541541-962b-43ce-93fc-e602f431b077
+DTSTAMP:20251228T200422Z
+SUMMARY:Endurance 2026 — Dubai 24 Hour
+DTSTART:20260109T120000Z
+DTEND:20260109T130000Z
+DESCRIPTION:Creventic endurance race. Start time TBD\; event is set to 12:00 UTC placeholder.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Race start (placeholder time) — check official schedule for exact start
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10d83c66-6fe6-429c-8e3e-0dfd8d80b570
+DTSTAMP:20251228T200422Z
+SUMMARY:Endurance 2026 — 24 Hours of Daytona
+DTSTART:20260123T120000Z
+DTEND:20260123T130000Z
+DESCRIPTION:IMSA endurance race. Start time TBD\; event is set to 12:00 UTC placeholder.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Race start (placeholder time) — check official schedule for exact start
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:9f46f2ee-c5d1-4eb9-9500-1e76d6f72870
+DTSTAMP:20251228T200422Z
+SUMMARY:Endurance 2026 — Bathurst 12 Hour
+DTSTART:20260206T120000Z
+DTEND:20260206T130000Z
+DESCRIPTION:IGTC endurance race. Start time TBD\; event is set to 12:00 UTC placeholder.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Race start (placeholder time) — check official schedule for exact start
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dc8b6942-631e-40e0-995c-ed630d7a4cba
+DTSTAMP:20251228T200422Z
+SUMMARY:Endurance 2026 — 12 Hours of Sebring
+DTSTART:20260320T120000Z
+DTEND:20260320T130000Z
+DESCRIPTION:IMSA endurance race. Start time TBD\; event is set to 12:00 UTC placeholder.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Race start (placeholder time) — check official schedule for exact start
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:b5976336-ad87-4a22-a226-00f964d6a8f1
+DTSTAMP:20251228T200422Z
+SUMMARY:Endurance 2026 — 6 Hours of Spa-Francorchamps
+DTSTART:20260509T120000Z
+DTEND:20260509T130000Z
+DESCRIPTION:WEC endurance race. Start time TBD\; event is set to 12:00 UTC placeholder.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Race start (placeholder time) — check official schedule for exact start
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:067fd483-c3f8-472c-a1bd-e6a9a87ac5a9
+DTSTAMP:20251228T200422Z
+SUMMARY:Endurance 2026 — 24 Hours of Le Mans
+DTSTART:20260613T120000Z
+DTEND:20260613T130000Z
+DESCRIPTION:WEC endurance race. Start time TBD\; event is set to 12:00 UTC placeholder.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Race start (placeholder time) — check official schedule for exact start
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e64a5248-7f75-4c6a-959d-8fcb7dc72bcf
+DTSTAMP:20251228T200422Z
+SUMMARY:Endurance 2026 — 24 Hours of Spa
+DTSTART:20260724T120000Z
+DTEND:20260724T130000Z
+DESCRIPTION:GTWC Europe / IGTC endurance race. Start time TBD\; event is set to 12:00 UTC placeholder.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Race start (placeholder time) — check official schedule for exact start
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:032e6ad9-e42a-4755-9f77-b5c3fad20868
+DTSTAMP:20251228T200422Z
+SUMMARY:Endurance 2026 — 6 Hours of Fuji
+DTSTART:20260926T120000Z
+DTEND:20260926T130000Z
+DESCRIPTION:WEC endurance race. Start time TBD\; event is set to 12:00 UTC placeholder.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Race start (placeholder time) — check official schedule for exact start
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ab5e4035-3d09-4823-a756-5eb02de5fd06
+DTSTAMP:20251228T200422Z
+SUMMARY:Endurance 2026 — Petit Le Mans (10H)
+DTSTART:20261001T120000Z
+DTEND:20261001T130000Z
+DESCRIPTION:IMSA endurance race. Start time TBD\; event is set to 12:00 UTC placeholder.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Race start (placeholder time) — check official schedule for exact start
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:5f536bf3-b8fc-4c81-a46a-ece2d7a4a682
+DTSTAMP:20251228T200422Z
+SUMMARY:Endurance 2026 — 6 Hours of Bahrain
+DTSTART:20261107T120000Z
+DTEND:20261107T130000Z
+DESCRIPTION:WEC endurance race. Start time TBD\; event is set to 12:00 UTC placeholder.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Race start (placeholder time) — check official schedule for exact start
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
